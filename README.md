@@ -6,11 +6,11 @@
     📚 studying number theory now
 </p>
 
-<h4 >you cant visit my portfolio <a href="https://ana-quallio.notion.site/ana-quallio/Portf-lio-6f1a2b30144f47e5b7fdb6c654664c56" target="_blank">here</a> and find me at</h4>
+<h4 >you can visit my portfolio <a href="https://ana-quallio.notion.site/ana-quallio/Portf-lio-6f1a2b30144f47e5b7fdb6c654664c56" target="_blank">here</a> and find me at</h4>
 
 <div align="center">
 
-<a href="mailto:anacarlaquallio@gmail.com" target="_blank">
+<a href="mailto:anacarlarosa@alunos.utfpr.edu.br" target="_blank">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white/">
  </a>
 
