@@ -3,10 +3,11 @@
 <p align="left">
     👩🏻‍💻 a computer science undergraduate student <br>
     👩🏻‍🎓 a computer technician <br>
+    📱 graphic designer <br>
     📚 studying number theory now
 </p>
 
-<h4 >you can visit my portfolio <a href="https://ana-quallio.notion.site/ana-quallio/Portf-lio-6f1a2b30144f47e5b7fdb6c654664c56" target="_blank">here</a> and find me at</h4>
+<h4 >you can find me at</h4>
 
 <div align="center">
 
