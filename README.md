@@ -3,7 +3,7 @@
 <p align="left">
     👩🏻‍💻 a computer science undergraduate student <br>
     👩🏻‍🎓 a computer technician <br>
-    📱 graphic designer <br>
+    📱 an ui/ux designer <br>
     📚 studying number theory now
 </p>
 
